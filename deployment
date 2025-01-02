@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
      - name: cont-1
-       image: shaikmustafa/dm
+       image: shaikmustafa/cycle
        ports:
         - containerPort: 80
 ---
